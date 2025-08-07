@@ -2,7 +2,7 @@
 
 ![Dashboard Screenshot](https://github.com/HilalAhmad01/Prism-Insurance-Analysis/blob/main/Prism%20BI%20Aanalysis.png)
 
-## Overview
+## 📊 Overview
 Sales Insurance Data Analysis – Prism Insurance Pvt. Ltd.
 This project presents a comprehensive Power BI analysis of data from Prism Insurance Pvt. Ltd., designed to deliver key business insights in an intuitive and interactive way.
 
