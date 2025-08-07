@@ -2,6 +2,8 @@
 
 ![Dashboard Screenshot](https://github.com/HilalAhmad01/Prism-Insurance-Analysis/blob/main/Prism%20BI%20Aanalysis.png)
 
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMTM3MGFjYzAtNTBmZS00YzJjLTkzMTQtZTRiOWI1Njg0NTAzIiwidCI6ImVkZWFmNTZlLWY1YTktNDQzZi1hYjliLTMzNWFjNjNmNDg4MSIsImMiOjN9
+
 ## 📊 Overview
 Sales Insurance Data Analysis – Prism Insurance Pvt. Ltd.
 This project presents a comprehensive Power BI analysis of data from Prism Insurance Pvt. Ltd., designed to deliver key business insights in an intuitive and interactive way.
@@ -30,6 +32,8 @@ The report enables users to explore and filter the data seamlessly, making it ea
 
 ## 🎨 Design & Aesthetic:
 The dashboard features a dark theme with a clean green-accented color palette, offering both a professional look and a pleasant user experience.
+
+
 
 
 
