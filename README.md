@@ -8,27 +8,27 @@ This project presents a comprehensive Power BI analysis of data from Prism Insur
 
 The report enables users to explore and filter the data seamlessly, making it easy to uncover trends and patterns relevant to sales and claims performance.
 
-🔍 Key Filtering Options:
+## 🔍 Key Filtering Options:
 
-Customer ID
+- Customer ID
 
-Policy Number
+- Policy Number
 
-Claim ID
+- Claim ID
 
-Gender
+- Gender
 
-Policy Type
+- Policy Type
 
-📈 Key Insights Covered:
+## 📈 Key Insights Covered:
 
-Distribution of insurance policies across various age groups
+- Distribution of insurance policies across various age groups
 
-Breakdown of active vs. inactive policies
+- Breakdown of active vs. inactive policies
 
-Visualization of claim status across different policy types
+- Visualization of claim status across different policy types
 
-🎨 Design & Aesthetic:
+## 🎨 Design & Aesthetic:
 The dashboard features a dark theme with a clean green-accented color palette, offering both a professional look and a pleasant user experience.
 
 
